@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\bin\Debug\if_else_kararyapısı1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\bin\Debug\if_else_kararyapısı1.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\bin\Debug\if_else_kararyapısı1.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\if_else_kararyapısı1\if_else_kararyapısı1\obj\Debug\if_else_kararyapısı1.pdb
